@@ -4,7 +4,7 @@ Reddit bot that, when called upon by a mention, searches for book/s on Amazon an
 
 Has ability to take multiple books at a time, separated by commas. Book titles with commas in them should be enclosed in quotes, bot can parse and figure out the titles. Also has ability to handle multi-line requests, including both book and author requests in one comment. 
 
-Demonstration of full capabilities: 
+Demo of full capabilities: 
 
 ![ScreenShot](https://raw.github.com/rodhoopar/book-finder/master/book%20finder%20example.png)
 
