@@ -8,6 +8,6 @@ Has ability to take multiple books at a time, separated by commas. Book titles w
 
 Demonstration of full capabilities: 
 
-<image here>
+![ScreenShot](https://raw.github.com/rodhoopar/book-finder/master/book_finder_example)
 
 Utilizes the Goodreads and Amazon Product Advertising API's. Needs developer keys from both and an Amazon affiliate account to use. Inspired by u/yoalan's bot for Netflix. 
