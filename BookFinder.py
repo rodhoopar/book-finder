@@ -83,7 +83,7 @@ def main():
 					
 					# Add comment on Reddit and to done list
 					print response
-					# comment.reply(response)
+					comment.reply(response)
 					already_done.append(comment.id)
 		except Exception as e:
 			print e
